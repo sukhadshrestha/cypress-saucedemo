@@ -1,0 +1,22 @@
+{
+    "validUser":{
+        "username": "standard_user",
+        "password": "secret_sauce"
+    },
+
+    "invalidUser":{
+        "username": "notadmin",
+        "password": "notadmin" 
+    },
+
+    "problemUser":{
+        "username": "problem_user",
+        "password": "secret_sauce" 
+    },
+
+    "userCheckout":{
+        "firstname": "Sukhad",
+        "lastname": "Shrestha",
+        "zipcode": "44200"
+    }
+}
