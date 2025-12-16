@@ -3,6 +3,7 @@ name: Cypress tests
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   cypress-run:
